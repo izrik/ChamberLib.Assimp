@@ -1,0 +1,6 @@
+[submodule "assimp"]
+	path = assimp
+	url = https://github.com/izrik/assimp.git
+[submodule "assimp-net"]
+	path = assimp-net
+	url = https://github.com/izrik/assimp-net.git
